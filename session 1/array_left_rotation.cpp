@@ -13,9 +13,9 @@ int main()
 
     vector<string> nd = split_string(nd_temp);
 
-    int n = stoi(nd[0]);
+    int n = stoi(nd[0]);        //accept number of elements
 
-    int d = stoi(nd[1]);
+    int d = stoi(nd[1]);        //accept number of rotations
 
     string a_temp_temp;
     getline(cin, a_temp_temp);
@@ -24,21 +24,21 @@ int main()
 
     vector<int> a(n);
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++) {       //accept the aaray
         int a_item = stoi(a_temp[i]);
 
         a[i] = a_item;
     }
-    if(d<n)
+    if(d<n)     //if number of rotations is less than number of elements we can directly go about it
     {
             for (int i = 0; i < d; i++) { 
-                a.push_back(a[0]);
-                a.erase(a.begin());
+                a.push_back(a[0]);      //inbuilt function which pushes a copy of first element to the end of the array
+                a.erase(a.begin());     //deletes the first element making the second element the first element
             }
     }
     else if(d>n)
     {
-        d=d-n;
+        d=d-n;      //same as before but reduces the amount of rotations 
         for (int i = 0; i < d; i++) { 
                 a.push_back(a[0]);
                 a.erase(a.begin());
@@ -54,6 +54,8 @@ int main()
 
     return 0;
 }
+
+//additional part already given by website
 
 vector<string> split_string(string input_string) {
     string::iterator new_end = unique(input_string.begin(), input_string.end(), [] (const char &x, const char &y) {
