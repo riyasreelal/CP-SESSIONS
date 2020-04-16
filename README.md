@@ -23,14 +23,21 @@
 ## SESSION 2 QUESTIONS:
 
 1.[Stocks are profitable](https://codezen.codingninjas.com/practice/465/704/stocks-are-profitable)
+
 2.[Smallest Subarray with required sum](https://codezen.codingninjas.com/practice/465/321/interview-shuriken-11:-smallest-subarray-with-required-sum)
+
 3.[Print all kxk](https://codezen.codingninjas.com/practice/466/2461/print-all-kxk)
 
 ## SESSION 3 QUESTIONS:
 
 1.[Code Chef Rainbow array](https://www.codechef.com/problems/RAINBOWA)
+
 2.[Cops and theif Devu](https://www.codechef.com/problems/COPS)
+
 3.[Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/)
+
 4.[Remove-duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates/)
+
 5.[Count Substrings](https://www.codechef.com/problems/CSUB)
+
 6.[Lapindromes ](https://www.codechef.com/problems/LAPIN)
