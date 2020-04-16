@@ -3,13 +3,21 @@
 ## SESSION 1 QUESTIONS:
 
 1.[Monk and Welcome problem](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-welcome-problem/)
+
 2.[Array left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
+
 3.[Long ATM Queue](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/)
+
 4.[Move All Zeroes to end of array](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array/0 )
+
 5.[Range Query](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/range-query-2/)
+
 6.[Pairs having similar Elements](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-having-similar-element-eed098aa/)
+
 7.[Hamiltonian and lagrangian](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/hamiltonian-and-lagrangian/)
+
 8.[Beautiful segments](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/beautiful-segments/)
+
 9.[Can you solve it](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/can-you-solve-it/)
 
 ## SESSION 2 QUESTIONS:
