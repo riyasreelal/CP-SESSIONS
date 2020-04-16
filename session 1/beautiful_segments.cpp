@@ -6,12 +6,12 @@ int main()
 {
     int t;
     cin>>t;
-    while(t--)
+    while(t--)   //loop for test cases
     {
         int n,count=0;
-        std::cin>>n;
+        std::cin>>n;  //accept number of elements
         int a[n];
-        for(int i=0;i<n;i++)
+        for(int i=0;i<n;i++)     //accept array elements
         {
             std::cin>>a[i];
         }
